@@ -1,0 +1,28 @@
+## Genome Access
+All genomes were sourced from **NCBI GenBank**:
+
+### *C. arabica* (5 genomes)
+| Cultivar/Isolate       | Accession ID       | Assembly Name       | NCBI Link |
+|------------------------|--------------------|---------------------|-----------|
+| Caturra red            | GCF_003713225.1    | Cara_1.0            | [Download](https://www.ncbi.nlm.nih.gov/assembly/GCF_003713225.1) |
+| Bourbon                | GCA_030873655.1    | IGA_Cara_2.4        | [Download](https://www.ncbi.nlm.nih.gov/assembly/GCA_030873655.1) |
+| ET-39 (HiFi)           | GCA_036785885.1    | ET-39 HiFi          | [Download](https://www.ncbi.nlm.nih.gov/assembly/GCA_036785885.1) |
+| ET-39 (v0.6)           | GCA_036785775.1    | ET-39 v0.6          | [Download](https://www.ncbi.nlm.nih.gov/assembly/GCA_036785775.1) |
+| Geisha                 | GCA_041438355.1    | UCDv1.0             | [Download](https://www.ncbi.nlm.nih.gov/assembly/GCA_041438355.1) |
+
+### *C. canephora* (2 genomes)
+| Cultivar       | Accession ID       | Assembly Name         | NCBI Link |
+|----------------|--------------------|-----------------------|-----------|
+| DH200-94       | GCA_900059795.1    | AUK_PRJEB4211_v1      | [Download](https://www.ncbi.nlm.nih.gov/assembly/GCA_900059795.1) |
+| DH200-94       | GCA_036785865.1    | ASM3678586v1          | [Download](https://www.ncbi.nlm.nih.gov/assembly/GCA_036785865.1) |
+
+### *C. eugenioides* (2 genomes)
+| Isolate/Cultivar | Accession ID       | Assembly Name       | NCBI Link |
+|------------------|--------------------|---------------------|-----------|
+| CCC68of          | GCF_003713205.1    | Ceug_1.0            | [Download](https://www.ncbi.nlm.nih.gov/assembly/GCF_003713205.1) |
+| Bu-A             | GCA_036785875.1    | ASM3678587v1        | [Download](https://www.ncbi.nlm.nih.gov/assembly/GCA_036785875.1) |
+
+### *C. humblotiana* (1 genome)
+| Isolate         | Accession ID       | Assembly Name       | NCBI Link |
+|----------------|--------------------|---------------------|-----------|
+| BM19/20        | GCA_023065735.1    | IRD_Cohum_1.0       | [Download](https://www.ncbi.nlm.nih.gov/assembly/GCA_023065735.1) |
