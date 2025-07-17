@@ -1,0 +1,236 @@
+Assembly Accession	Assembly-unit accession	Chromosome name	GC Count	GC Percent	GenBank seq accession	Molecule type	Ordering	RefSeq seq accession	Role	Seq length	UCSC style name	Unlocalized Count	Sequence name
+GCA_041438355.1	Primary Assembly	1c	19402228	37	CM084640.1	Chromosome			assembled-molecule	52191927			chr1c
+GCA_041438355.1	Primary Assembly	1e	17747542	36.5	CM084641.1	Chromosome			assembled-molecule	48306594			chr1e
+GCA_041438355.1	Primary Assembly	2c	25305440	36.5	CM084642.1	Chromosome			assembled-molecule	69315166			chr2c
+GCA_041438355.1	Primary Assembly	2e	25191000	36.5	CM084643.1	Chromosome			assembled-molecule	68927359			chr2e
+GCA_041438355.1	Primary Assembly	3c	14150795	36.5	CM084644.1	Chromosome			assembled-molecule	39035619			chr3c
+GCA_041438355.1	Primary Assembly	3e	14469910	36.5	CM084645.1	Chromosome			assembled-molecule	39753864			chr3e
+GCA_041438355.1	Primary Assembly	4c	17177825	37	CM084646.1	Chromosome			assembled-molecule	46192948			chr4c
+GCA_041438355.1	Primary Assembly	4e	14901469	36.5	CM084647.1	Chromosome			assembled-molecule	40586761			chr4e
+GCA_041438355.1	Primary Assembly	5e	15817492	36.5	CM084648.1	Chromosome			assembled-molecule	43210077			chr5e
+GCA_041438355.1	Primary Assembly	5c	16403474	37	CM084649.1	Chromosome			assembled-molecule	44510085			chr5c
+GCA_041438355.1	Primary Assembly	6c	20667295	37	CM084650.1	Chromosome			assembled-molecule	55951153			chr6c
+GCA_041438355.1	Primary Assembly	6e	20044340	37	CM084651.1	Chromosome			assembled-molecule	54453399			chr6e
+GCA_041438355.1	Primary Assembly	7c	12618740	36.5	CM084652.1	Chromosome			assembled-molecule	34437611			chr7c
+GCA_041438355.1	Primary Assembly	7e	13530564	36.5	CM084653.1	Chromosome			assembled-molecule	37237601			chr7e
+GCA_041438355.1	Primary Assembly	8e	15954368	36.5	CM084654.1	Chromosome			assembled-molecule	43715010			chr8e
+GCA_041438355.1	Primary Assembly	8c	15013945	36.5	CM084655.1	Chromosome			assembled-molecule	41151620			chr8c
+GCA_041438355.1	Primary Assembly	9c	12029492	37	CM084656.1	Chromosome			assembled-molecule	32414496			chr9c
+GCA_041438355.1	Primary Assembly	9e	13578604	37	CM084657.1	Chromosome			assembled-molecule	36627866			chr9e
+GCA_041438355.1	Primary Assembly	10e	14418159	36.5	CM084658.1	Chromosome			assembled-molecule	39316854			chr10e
+GCA_041438355.1	Primary Assembly	10c	18304096	37	CM084659.1	Chromosome			assembled-molecule	49518333			chr10c
+GCA_041438355.1	Primary Assembly	11c	13332037	36.5	CM084660.1	Chromosome			assembled-molecule	36697766			chr11c
+GCA_041438355.1	Primary Assembly	11e	14194501	36.5	CM084661.1	Chromosome			assembled-molecule	38794598			chr11e
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001751.1	Chromosome			unplaced-scaffold	142569			Scaff3
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001752.1	Chromosome			unplaced-scaffold	98917			Scaff4
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001753.1	Chromosome			unplaced-scaffold	133372			Scaff5
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001760.1	Chromosome			unplaced-scaffold	80678			Scaff8
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001763.1	Chromosome			unplaced-scaffold	87903			Scaff10
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001766.1	Chromosome			unplaced-scaffold	126448			Scaff12
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001767.1	Chromosome			unplaced-scaffold	57190			Scaff13
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001768.1	Chromosome			unplaced-scaffold	58018			Scaff14
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001769.1	Chromosome			unplaced-scaffold	70879			Scaff15
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001775.1	Chromosome			unplaced-scaffold	161287			Scaff18
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001776.1	Chromosome			unplaced-scaffold	102460			Scaff19
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001777.1	Chromosome			unplaced-scaffold	70994			Scaff20
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001781.1	Chromosome			unplaced-scaffold	130825			Scaff22
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001782.1	Chromosome			unplaced-scaffold	75364			Scaff23
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001783.1	Chromosome			unplaced-scaffold	95384			Scaff24
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001786.1	Chromosome			unplaced-scaffold	132838			Scaff26
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001789.1	Chromosome			unplaced-scaffold	63575			Scaff28
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001790.1	Chromosome			unplaced-scaffold	44199			Scaff29
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001800.1	Chromosome			unplaced-scaffold	27739			Scaff31
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001801.1	Chromosome			unplaced-scaffold	24189			Scaff32
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001802.1	Chromosome			unplaced-scaffold	35753			Scaff33
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001803.1	Chromosome			unplaced-scaffold	90924			Scaff34
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001804.1	Chromosome			unplaced-scaffold	91786			Scaff35
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001805.1	Chromosome			unplaced-scaffold	34566			Scaff36
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001806.1	Chromosome			unplaced-scaffold	35891			Scaff37
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001827.1	Chromosome			unplaced-scaffold	35120			Scaff40
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001828.1	Chromosome			unplaced-scaffold	20214			Scaff41
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001831.1	Chromosome			unplaced-scaffold	42869			Scaff43
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001832.1	Chromosome			unplaced-scaffold	25737			Scaff44
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001849.1	Chromosome			unplaced-scaffold	107456			Scaff46
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001850.1	Chromosome			unplaced-scaffold	145078			Scaff47
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001851.1	Chromosome			unplaced-scaffold	54252			Scaff48
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001852.1	Chromosome			unplaced-scaffold	55812			Scaff49
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001855.1	Chromosome			unplaced-scaffold	162821			Scaff51
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001856.1	Chromosome			unplaced-scaffold	281045			Scaff52
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001864.1	Chromosome			unplaced-scaffold	119891			Scaff56
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001865.1	Chromosome			unplaced-scaffold	134520			Scaff57
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001866.1	Chromosome			unplaced-scaffold	138279			Scaff58
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001870.1	Chromosome			unplaced-scaffold	169280			Scaff60
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001871.1	Chromosome			unplaced-scaffold	300532			Scaff61
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001872.1	Chromosome			unplaced-scaffold	24334			Scaff62
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001877.1	Chromosome			unplaced-scaffold	61215			Scaff65
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001878.1	Chromosome			unplaced-scaffold	159639			Scaff66
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001879.1	Chromosome			unplaced-scaffold	85578			Scaff67
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001880.1	Chromosome			unplaced-scaffold	119888			Scaff68
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001881.1	Chromosome			unplaced-scaffold	65318			Scaff69
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001892.1	Chromosome			unplaced-scaffold	41466			Scaff71
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001893.1	Chromosome			unplaced-scaffold	76850			Scaff72
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001894.1	Chromosome			unplaced-scaffold	21916			Scaff73
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001895.1	Chromosome			unplaced-scaffold	117548			Scaff74
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001896.1	Chromosome			unplaced-scaffold	138954			Scaff75
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001897.1	Chromosome			unplaced-scaffold	115950			Scaff76
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001925.1	Chromosome			unplaced-scaffold	41609			Scaff81
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001928.1	Chromosome			unplaced-scaffold	98708			Scaff83
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001929.1	Chromosome			unplaced-scaffold	34712			Scaff84
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001930.1	Chromosome			unplaced-scaffold	70535			Scaff85
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001931.1	Chromosome			unplaced-scaffold	46957			Scaff86
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001932.1	Chromosome			unplaced-scaffold	94635			Scaff87
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001933.1	Chromosome			unplaced-scaffold	39106			Scaff88
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001934.1	Chromosome			unplaced-scaffold	27756			Scaff89
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001939.1	Chromosome			unplaced-scaffold	30285			Scaff91
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001940.1	Chromosome			unplaced-scaffold	42718			Scaff92
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001943.1	Chromosome			unplaced-scaffold	90084			Scaff94
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001944.1	Chromosome			unplaced-scaffold	137433			Scaff95
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001945.1	Chromosome			unplaced-scaffold	55435			Scaff96
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001946.1	Chromosome			unplaced-scaffold	99962			Scaff97
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001950.1	Chromosome			unplaced-scaffold	140145			Scaff99
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001954.1	Chromosome			unplaced-scaffold	94572			Scaff101
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001955.1	Chromosome			unplaced-scaffold	119474			Scaff102
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001956.1	Chromosome			unplaced-scaffold	191083			Scaff103
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001957.1	Chromosome			unplaced-scaffold	149501			Scaff104
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001958.1	Chromosome			unplaced-scaffold	160319			Scaff105
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001959.1	Chromosome			unplaced-scaffold	79361			Scaff106
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001960.1	Chromosome			unplaced-scaffold	28929			Scaff107
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001961.1	Chromosome			unplaced-scaffold	195702			Scaff108
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001962.1	Chromosome			unplaced-scaffold	146847			Scaff109
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001965.1	Chromosome			unplaced-scaffold	196189			Scaff111
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001966.1	Chromosome			unplaced-scaffold	142307			Scaff112
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001967.1	Chromosome			unplaced-scaffold	64686			Scaff113
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001968.1	Chromosome			unplaced-scaffold	139955			Scaff114
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001969.1	Chromosome			unplaced-scaffold	149731			Scaff115
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001970.1	Chromosome			unplaced-scaffold	109845			Scaff116
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001973.1	Chromosome			unplaced-scaffold	95917			Scaff118
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001974.1	Chromosome			unplaced-scaffold	23049			Scaff119
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001975.1	Chromosome			unplaced-scaffold	63803			Scaff120
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001978.1	Chromosome			unplaced-scaffold	42249			Scaff122
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001979.1	Chromosome			unplaced-scaffold	45692			Scaff123
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001980.1	Chromosome			unplaced-scaffold	30726			Scaff124
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001981.1	Chromosome			unplaced-scaffold	84829			Scaff125
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001984.1	Chromosome			unplaced-scaffold	46529			Scaff127
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001990.1	Chromosome			unplaced-scaffold	135369			Scaff130
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001991.1	Chromosome			unplaced-scaffold	72034			Scaff131
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001992.1	Chromosome			unplaced-scaffold	295502			Scaff132
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001993.1	Chromosome			unplaced-scaffold	246671			Scaff133
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001994.1	Chromosome			unplaced-scaffold	132084			Scaff134
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001995.1	Chromosome			unplaced-scaffold	27360			Scaff135
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010001996.1	Chromosome			unplaced-scaffold	28126			Scaff136
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002000.1	Chromosome			unplaced-scaffold	87294			Scaff138
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002001.1	Chromosome			unplaced-scaffold	223835			Scaff139
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002002.1	Chromosome			unplaced-scaffold	219548			Scaff140
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002006.1	Chromosome			unplaced-scaffold	68370			Scaff142
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002007.1	Chromosome			unplaced-scaffold	172277			Scaff143
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002008.1	Chromosome			unplaced-scaffold	288582			Scaff144
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002011.1	Chromosome			unplaced-scaffold	217831			Scaff146
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002012.1	Chromosome			unplaced-scaffold	42436			Scaff147
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002013.1	Chromosome			unplaced-scaffold	74378			Scaff148
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002014.1	Chromosome			unplaced-scaffold	118744			Scaff149
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002017.1	Chromosome			unplaced-scaffold	125346			Scaff151
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002020.1	Chromosome			unplaced-scaffold	84531			Scaff153
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002021.1	Chromosome			unplaced-scaffold	80207			Scaff154
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002022.1	Chromosome			unplaced-scaffold	72185			Scaff155
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002028.1	Chromosome			unplaced-scaffold	182423			Scaff157
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002036.1	Chromosome			unplaced-scaffold	369303			Scaff161
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002039.1	Chromosome			unplaced-scaffold	245673			Scaff163
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002040.1	Chromosome			unplaced-scaffold	323247			Scaff164
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002041.1	Chromosome			unplaced-scaffold	106805			Scaff165
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002042.1	Chromosome			unplaced-scaffold	79767			Scaff166
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002043.1	Chromosome			unplaced-scaffold	65450			Scaff167
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002044.1	Chromosome			unplaced-scaffold	82186			Scaff168
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002049.1	Chromosome			unplaced-scaffold	73564			Scaff171
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002050.1	Chromosome			unplaced-scaffold	68549			Scaff172
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002051.1	Chromosome			unplaced-scaffold	117264			Scaff173
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002055.1	Chromosome			unplaced-scaffold	117436			Scaff175
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002056.1	Chromosome			unplaced-scaffold	136408			Scaff176
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002057.1	Chromosome			unplaced-scaffold	64652			Scaff177
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002058.1	Chromosome			unplaced-scaffold	91774			Scaff178
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002059.1	Chromosome			unplaced-scaffold	53267			Scaff179
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002067.1	Chromosome			unplaced-scaffold	159544			Scaff183
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002075.1	Chromosome			unplaced-scaffold	21674			Scaff187
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002076.1	Chromosome			unplaced-scaffold	222727			Scaff188
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002077.1	Chromosome			unplaced-scaffold	146045			Scaff189
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002078.1	Chromosome			unplaced-scaffold	117152			Scaff190
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002079.1	Chromosome			unplaced-scaffold	263424			Scaff191
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002080.1	Chromosome			unplaced-scaffold	127975			Scaff192
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002081.1	Chromosome			unplaced-scaffold	21139			Scaff193
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002082.1	Chromosome			unplaced-scaffold	137160			Scaff194
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002083.1	Chromosome			unplaced-scaffold	242851			Scaff195
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002091.1	Chromosome			unplaced-scaffold	208015			Scaff199
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002092.1	Chromosome			unplaced-scaffold	53269			Scaff200
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002101.1	Chromosome			unplaced-scaffold	110686			Scaff205
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002102.1	Chromosome			unplaced-scaffold	139516			Scaff206
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002103.1	Chromosome			unplaced-scaffold	89139			Scaff207
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002104.1	Chromosome			unplaced-scaffold	24326			Scaff208
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002105.1	Chromosome			unplaced-scaffold	122002			Scaff209
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002108.1	Chromosome			unplaced-scaffold	133273			Scaff211
+GCA_041438355.1	Primary Assembly	Un			JBELAZ010002111.1	Chromosome			unplaced-scaffold	43695			Scaff213
+GCA_041438355.1	Primary Assembly	Un			MU981285.1	Chromosome			unplaced-scaffold	205965			Scaff1
+GCA_041438355.1	Primary Assembly	Un			MU981286.1	Chromosome			unplaced-scaffold	100974			Scaff2
+GCA_041438355.1	Primary Assembly	Un			MU981287.1	Chromosome			unplaced-scaffold	76948			Scaff6
+GCA_041438355.1	Primary Assembly	Un			MU981288.1	Chromosome			unplaced-scaffold	179512			Scaff7
+GCA_041438355.1	Primary Assembly	Un			MU981289.1	Chromosome			unplaced-scaffold	150222			Scaff9
+GCA_041438355.1	Primary Assembly	Un			MU981290.1	Chromosome			unplaced-scaffold	153075			Scaff11
+GCA_041438355.1	Primary Assembly	Un			MU981291.1	Chromosome			unplaced-scaffold	279463			Scaff16
+GCA_041438355.1	Primary Assembly	Un			MU981292.1	Chromosome			unplaced-scaffold	78231			Scaff17
+GCA_041438355.1	Primary Assembly	Un			MU981293.1	Chromosome			unplaced-scaffold	639239			Scaff21
+GCA_041438355.1	Primary Assembly	Un			MU981294.1	Chromosome			unplaced-scaffold	168114			Scaff25
+GCA_041438355.1	Primary Assembly	Un			MU981295.1	Chromosome			unplaced-scaffold	67233			Scaff27
+GCA_041438355.1	Primary Assembly	Un			MU981296.1	Chromosome			unplaced-scaffold	568447			Scaff30
+GCA_041438355.1	Primary Assembly	Un			MU981297.1	Chromosome			unplaced-scaffold	145476			Scaff38
+GCA_041438355.1	Primary Assembly	Un			MU981298.1	Chromosome			unplaced-scaffold	1111151			Scaff39
+GCA_041438355.1	Primary Assembly	Un			MU981299.1	Chromosome			unplaced-scaffold	66763			Scaff42
+GCA_041438355.1	Primary Assembly	Un			MU981300.1	Chromosome			unplaced-scaffold	764020			Scaff45
+GCA_041438355.1	Primary Assembly	Un			MU981301.1	Chromosome			unplaced-scaffold	95415			Scaff50
+GCA_041438355.1	Primary Assembly	Un			MU981302.1	Chromosome			unplaced-scaffold	191946			Scaff53
+GCA_041438355.1	Primary Assembly	Un			MU981303.1	Chromosome			unplaced-scaffold	206150			Scaff54
+GCA_041438355.1	Primary Assembly	Un			MU981304.1	Chromosome			unplaced-scaffold	153806			Scaff55
+GCA_041438355.1	Primary Assembly	Un			MU981305.1	Chromosome			unplaced-scaffold	128257			Scaff59
+GCA_041438355.1	Primary Assembly	Un			MU981306.1	Chromosome			unplaced-scaffold	216731			Scaff63
+GCA_041438355.1	Primary Assembly	Un			MU981307.1	Chromosome			unplaced-scaffold	57693			Scaff64
+GCA_041438355.1	Primary Assembly	Un			MU981308.1	Chromosome			unplaced-scaffold	617619			Scaff70
+GCA_041438355.1	Primary Assembly	Un			MU981309.1	Chromosome			unplaced-scaffold	233496			Scaff77
+GCA_041438355.1	Primary Assembly	Un			MU981310.1	Chromosome			unplaced-scaffold	514295			Scaff78
+GCA_041438355.1	Primary Assembly	Un			MU981311.1	Chromosome			unplaced-scaffold	278463			Scaff79
+GCA_041438355.1	Primary Assembly	Un			MU981312.1	Chromosome			unplaced-scaffold	702128			Scaff80
+GCA_041438355.1	Primary Assembly	Un			MU981313.1	Chromosome			unplaced-scaffold	67442			Scaff82
+GCA_041438355.1	Primary Assembly	Un			MU981314.1	Chromosome			unplaced-scaffold	149417			Scaff90
+GCA_041438355.1	Primary Assembly	Un			MU981315.1	Chromosome			unplaced-scaffold	76231			Scaff93
+GCA_041438355.1	Primary Assembly	Un			MU981316.1	Chromosome			unplaced-scaffold	406612			Scaff98
+GCA_041438355.1	Primary Assembly	Un			MU981317.1	Chromosome			unplaced-scaffold	396132			Scaff100
+GCA_041438355.1	Primary Assembly	Un			MU981318.1	Chromosome			unplaced-scaffold	261174			Scaff110
+GCA_041438355.1	Primary Assembly	Un			MU981319.1	Chromosome			unplaced-scaffold	311217			Scaff117
+GCA_041438355.1	Primary Assembly	Un			MU981320.1	Chromosome			unplaced-scaffold	303229			Scaff121
+GCA_041438355.1	Primary Assembly	Un			MU981321.1	Chromosome			unplaced-scaffold	370007			Scaff126
+GCA_041438355.1	Primary Assembly	Un			MU981322.1	Chromosome			unplaced-scaffold	150393			Scaff128
+GCA_041438355.1	Primary Assembly	Un			MU981323.1	Chromosome			unplaced-scaffold	184558			Scaff129
+GCA_041438355.1	Primary Assembly	Un			MU981324.1	Chromosome			unplaced-scaffold	354920			Scaff137
+GCA_041438355.1	Primary Assembly	Un			MU981325.1	Chromosome			unplaced-scaffold	548847			Scaff141
+GCA_041438355.1	Primary Assembly	Un			MU981326.1	Chromosome			unplaced-scaffold	165105			Scaff145
+GCA_041438355.1	Primary Assembly	Un			MU981327.1	Chromosome			unplaced-scaffold	200117			Scaff150
+GCA_041438355.1	Primary Assembly	Un			MU981328.1	Chromosome			unplaced-scaffold	133546			Scaff152
+GCA_041438355.1	Primary Assembly	Un			MU981329.1	Chromosome			unplaced-scaffold	491502			Scaff156
+GCA_041438355.1	Primary Assembly	Un			MU981330.1	Chromosome			unplaced-scaffold	333034			Scaff158
+GCA_041438355.1	Primary Assembly	Un			MU981331.1	Chromosome			unplaced-scaffold	198356			Scaff159
+GCA_041438355.1	Primary Assembly	Un			MU981332.1	Chromosome			unplaced-scaffold	262816			Scaff160
+GCA_041438355.1	Primary Assembly	Un			MU981333.1	Chromosome			unplaced-scaffold	187154			Scaff162
+GCA_041438355.1	Primary Assembly	Un			MU981334.1	Chromosome			unplaced-scaffold	239493			Scaff169
+GCA_041438355.1	Primary Assembly	Un			MU981335.1	Chromosome			unplaced-scaffold	136947			Scaff170
+GCA_041438355.1	Primary Assembly	Un			MU981336.1	Chromosome			unplaced-scaffold	311981			Scaff174
+GCA_041438355.1	Primary Assembly	Un			MU981337.1	Chromosome			unplaced-scaffold	355482			Scaff180
+GCA_041438355.1	Primary Assembly	Un			MU981338.1	Chromosome			unplaced-scaffold	185025			Scaff181
+GCA_041438355.1	Primary Assembly	Un			MU981339.1	Chromosome			unplaced-scaffold	239941			Scaff182
+GCA_041438355.1	Primary Assembly	Un			MU981340.1	Chromosome			unplaced-scaffold	161683			Scaff184
+GCA_041438355.1	Primary Assembly	Un			MU981341.1	Chromosome			unplaced-scaffold	217602			Scaff185
+GCA_041438355.1	Primary Assembly	Un			MU981342.1	Chromosome			unplaced-scaffold	89603			Scaff186
+GCA_041438355.1	Primary Assembly	Un			MU981343.1	Chromosome			unplaced-scaffold	82041			Scaff196
+GCA_041438355.1	Primary Assembly	Un			MU981344.1	Chromosome			unplaced-scaffold	182549			Scaff197
+GCA_041438355.1	Primary Assembly	Un			MU981345.1	Chromosome			unplaced-scaffold	173639			Scaff198
+GCA_041438355.1	Primary Assembly	Un			MU981346.1	Chromosome			unplaced-scaffold	322900			Scaff201
+GCA_041438355.1	Primary Assembly	Un			MU981347.1	Chromosome			unplaced-scaffold	213795			Scaff202
+GCA_041438355.1	Primary Assembly	Un			MU981348.1	Chromosome			unplaced-scaffold	235291			Scaff203
+GCA_041438355.1	Primary Assembly	Un			MU981349.1	Chromosome			unplaced-scaffold	237302			Scaff204
+GCA_041438355.1	Primary Assembly	Un			MU981350.1	Chromosome			unplaced-scaffold	238311			Scaff210
+GCA_041438355.1	Primary Assembly	Un			MU981351.1	Chromosome			unplaced-scaffold	181048			Scaff212

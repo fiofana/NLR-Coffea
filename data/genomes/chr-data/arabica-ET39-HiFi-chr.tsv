@@ -1,0 +1,134 @@
+Assembly Accession	Assembly-unit accession	Chromosome name	GC Count	GC Percent	GenBank seq accession	Molecule type	Ordering	RefSeq seq accession	Role	Seq length	UCSC style name	Unlocalized Count	Sequence name
+GCA_036785885.1	Primary Assembly	1c	22269546	37.5	CM071891.1	Chromosome		NC_092310.1	assembled-molecule	59034463			Cara001_chrA_sgCC
+GCA_036785885.1	Primary Assembly	1e	21367683	37	CM071892.1	Chromosome		NC_092311.1	assembled-molecule	57716770			Cara002_chrA_sgEE
+GCA_036785885.1	Primary Assembly	2c	28238824	36.5	CM071893.1	Chromosome		NC_092312.1	assembled-molecule	76906396			Cara003_chrB_sgCC
+GCA_036785885.1	Primary Assembly	2e	28442606	37	CM071894.1	Chromosome		NC_092313.1	assembled-molecule	77301657			Cara004_chrB_sgEE
+GCA_036785885.1	Primary Assembly	3c	16433283	37	CM071895.1	Chromosome		NC_092314.1	assembled-molecule	44587295			Cara005_chrC_sgCC
+GCA_036785885.1	Primary Assembly	3e	18211352	37	CM071896.1	Chromosome		NC_092315.1	assembled-molecule	49228674			Cara006_chrC_sgEE
+GCA_036785885.1	Primary Assembly	4c	19515843	37.5	CM071897.1	Chromosome		NC_092316.1	assembled-molecule	52323663			Cara007_chrD_sgCC
+GCA_036785885.1	Primary Assembly	4e	18082098	37	CM071898.1	Chromosome		NC_092317.1	assembled-molecule	48754064			Cara008_chrD_sgEE
+GCA_036785885.1	Primary Assembly	5e	20591849	37.5	CM071899.1	Chromosome		NC_092318.1	assembled-molecule	55030746			Cara010_chrE_sgEE
+GCA_036785885.1	Primary Assembly	5c	18253945	37	CM071900.1	Chromosome		NC_092319.1	assembled-molecule	49172495			Cara009_chrE_sgCC
+GCA_036785885.1	Primary Assembly	6c	23806114	37.5	CM071901.1	Chromosome		NC_092320.1	assembled-molecule	63716479			Cara011_chrF_sgCC
+GCA_036785885.1	Primary Assembly	6e	23475558	37	CM071902.1	Chromosome		NC_092321.1	assembled-molecule	63214365			Cara012_chrF_sgEE
+GCA_036785885.1	Primary Assembly	7c	14931496	37	CM071903.1	Chromosome		NC_092322.1	assembled-molecule	40515400			Cara013_chrG_sgCC
+GCA_036785885.1	Primary Assembly	7e	19521821	38.5	CM071904.1	Chromosome		NC_092323.1	assembled-molecule	50646195			Cara014_chrG_sgEE
+GCA_036785885.1	Primary Assembly	8e	19834935	37	CM071905.1	Chromosome		NC_092324.1	assembled-molecule	53737150			Cara016_chrH_sgEE
+GCA_036785885.1	Primary Assembly	8c	17152843	37	CM071906.1	Chromosome		NC_092325.1	assembled-molecule	46623164			Cara015_chrH_sgCC
+GCA_036785885.1	Primary Assembly	9c	16549236	37.5	CM071907.1	Chromosome		NC_092326.1	assembled-molecule	44254144			Cara017_chrI_sgCC
+GCA_036785885.1	Primary Assembly	9e	15475659	37.5	CM071908.1	Chromosome		NC_092327.1	assembled-molecule	41449412			Cara018_chrI_sgEE
+GCA_036785885.1	Primary Assembly	10e	18263249	37.5	CM071909.1	Chromosome		NC_092328.1	assembled-molecule	48872521			Cara020_chrJ_sgEE
+GCA_036785885.1	Primary Assembly	10c	20118318	37	CM071910.1	Chromosome		NC_092329.1	assembled-molecule	54177763			Cara019_chrJ_sgCC
+GCA_036785885.1	Primary Assembly	11c	17316899	38	CM071911.1	Chromosome		NC_092330.1	assembled-molecule	45802622			Cara021_chrK_sgCC
+GCA_036785885.1	Primary Assembly	11e	25406152	40.5	CM071912.1	Chromosome		NC_092331.1	assembled-molecule	62661540			Cara022_chrK_sgEE_A
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000023.1	Chromosome		NW_027266152.1	unplaced-scaffold	27834			ptg000002l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000024.1	Chromosome		NW_027266153.1	unplaced-scaffold	85510			ptg000003l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000025.1	Chromosome		NW_027266154.1	unplaced-scaffold	11286			ptg000005l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000026.1	Chromosome		NW_027266155.1	unplaced-scaffold	165930			ptg000006l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000027.1	Chromosome		NW_027266156.1	unplaced-scaffold	72139			ptg000007l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000028.1	Chromosome		NW_027266157.1	unplaced-scaffold	88571			ptg000008l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000029.1	Chromosome		NW_027266158.1	unplaced-scaffold	85180			ptg000009l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000030.1	Chromosome		NW_027266159.1	unplaced-scaffold	83483			ptg000010l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000031.1	Chromosome		NW_027266160.1	unplaced-scaffold	106409			ptg000011l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000032.1	Chromosome		NW_027266161.1	unplaced-scaffold	59250			ptg000012l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000033.1	Chromosome		NW_027266162.1	unplaced-scaffold	160555			ptg000014l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000034.1	Chromosome		NW_027266163.1	unplaced-scaffold	83150			ptg000015l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000035.1	Chromosome		NW_027266164.1	unplaced-scaffold	86285			ptg000016l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000036.1	Chromosome		NW_027266165.1	unplaced-scaffold	81071			ptg000017l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000037.1	Chromosome		NW_027266166.1	unplaced-scaffold	10235			ptg000018l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000038.1	Chromosome		NW_027266167.1	unplaced-scaffold	84827			ptg000019l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000039.1	Chromosome		NW_027266168.1	unplaced-scaffold	20037			ptg000020l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000040.1	Chromosome		NW_027266169.1	unplaced-scaffold	51748			ptg000021l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000041.1	Chromosome		NW_027266170.1	unplaced-scaffold	6834			ptg000022l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000042.1	Chromosome		NW_027266171.1	unplaced-scaffold	137395			ptg000023l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000043.1	Chromosome		NW_027266172.1	unplaced-scaffold	81056			ptg000024l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000044.1	Chromosome		NW_027266173.1	unplaced-scaffold	88264			ptg000025l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000045.1	Chromosome		NW_027266174.1	unplaced-scaffold	25189			ptg000026l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000046.1	Chromosome		NW_027266175.1	unplaced-scaffold	51392			ptg000027l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000047.1	Chromosome		NW_027266176.1	unplaced-scaffold	114993			ptg000028l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000048.1	Chromosome		NW_027266177.1	unplaced-scaffold	25971			ptg000029l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000049.1	Chromosome		NW_027266178.1	unplaced-scaffold	82386			ptg000030l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000050.1	Chromosome		NW_027266179.1	unplaced-scaffold	149956			ptg000031l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000051.1	Chromosome		NW_027266180.1	unplaced-scaffold	98811			ptg000032l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000052.1	Chromosome		NW_027266181.1	unplaced-scaffold	34951			ptg000033l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000053.1	Chromosome		NW_027266182.1	unplaced-scaffold	18777			ptg000034l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000054.1	Chromosome		NW_027266183.1	unplaced-scaffold	97437			ptg000035l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000055.1	Chromosome		NW_027266184.1	unplaced-scaffold	50892			ptg000036l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000056.1	Chromosome		NW_027266185.1	unplaced-scaffold	45501			ptg000037l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000057.1	Chromosome		NW_027266186.1	unplaced-scaffold	92025			ptg000038l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000058.1	Chromosome		NW_027266187.1	unplaced-scaffold	101479			ptg000039l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000059.1	Chromosome		NW_027266188.1	unplaced-scaffold	170650			ptg000040l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000060.1	Chromosome		NW_027266189.1	unplaced-scaffold	35175			ptg000042l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000061.1	Chromosome		NW_027266190.1	unplaced-scaffold	56500			ptg000043l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000062.1	Chromosome		NW_027266191.1	unplaced-scaffold	23128			ptg000044l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000063.1	Chromosome		NW_027266192.1	unplaced-scaffold	36459			ptg000045l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000064.1	Chromosome		NW_027266193.1	unplaced-scaffold	54609			ptg000046l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000065.1	Chromosome		NW_027266194.1	unplaced-scaffold	21013			ptg000047l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000066.1	Chromosome		NW_027266195.1	unplaced-scaffold	65727			ptg000048l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000067.1	Chromosome		NW_027266196.1	unplaced-scaffold	26852			ptg000049l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000068.1	Chromosome		NW_027266197.1	unplaced-scaffold	32264			ptg000050l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000069.1	Chromosome		NW_027266198.1	unplaced-scaffold	14337			ptg000051l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000070.1	Chromosome		NW_027266199.1	unplaced-scaffold	67567			ptg000053l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000071.1	Chromosome		NW_027266200.1	unplaced-scaffold	160454			ptg000054l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000072.1	Chromosome		NW_027266201.1	unplaced-scaffold	84315			ptg000055l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000073.1	Chromosome		NW_027266202.1	unplaced-scaffold	67244			ptg000056l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000074.1	Chromosome		NW_027266203.1	unplaced-scaffold	25458			ptg000057l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000075.1	Chromosome		NW_027266204.1	unplaced-scaffold	39518			ptg000058l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000076.1	Chromosome		NW_027266205.1	unplaced-scaffold	50354			ptg000059l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000077.1	Chromosome		NW_027266206.1	unplaced-scaffold	38848			ptg000060l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000078.1	Chromosome		NW_027266207.1	unplaced-scaffold	95218			ptg000061l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000079.1	Chromosome		NW_027266208.1	unplaced-scaffold	68090			ptg000062l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000080.1	Chromosome		NW_027266209.1	unplaced-scaffold	135785			ptg000063l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000081.1	Chromosome		NW_027266210.1	unplaced-scaffold	51633			ptg000064l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000082.1	Chromosome		NW_027266211.1	unplaced-scaffold	19557			ptg000065l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000083.1	Chromosome		NW_027266212.1	unplaced-scaffold	71401			ptg000066l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000084.1	Chromosome		NW_027266213.1	unplaced-scaffold	69457			ptg000067l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000085.1	Chromosome		NW_027266214.1	unplaced-scaffold	24638			ptg000070l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000086.1	Chromosome		NW_027266215.1	unplaced-scaffold	6964			ptg000071l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000087.1	Chromosome		NW_027266216.1	unplaced-scaffold	36710			ptg000072l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000088.1	Chromosome		NW_027266217.1	unplaced-scaffold	18858			ptg000073l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000089.1	Chromosome		NW_027266218.1	unplaced-scaffold	24221			ptg000074l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000090.1	Chromosome		NW_027266219.1	unplaced-scaffold	12882			ptg000075l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000091.1	Chromosome		NW_027266220.1	unplaced-scaffold	21154			ptg000076l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000092.1	Chromosome		NW_027266221.1	unplaced-scaffold	64073			ptg000077l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000093.1	Chromosome		NW_027266222.1	unplaced-scaffold	51569			ptg000078l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000094.1	Chromosome		NW_027266223.1	unplaced-scaffold	23531			ptg000080l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000095.1	Chromosome		NW_027266224.1	unplaced-scaffold	48698			ptg000081l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000096.1	Chromosome		NW_027266225.1	unplaced-scaffold	18336			ptg000082l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000097.1	Chromosome		NW_027266226.1	unplaced-scaffold	68777			ptg000083l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000098.1	Chromosome		NW_027266227.1	unplaced-scaffold	18692			ptg000084l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000099.1	Chromosome		NW_027266228.1	unplaced-scaffold	7556			ptg000085l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000100.1	Chromosome		NW_027266229.1	unplaced-scaffold	8604			ptg000086l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000101.1	Chromosome		NW_027266230.1	unplaced-scaffold	77378			ptg000087l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000102.1	Chromosome		NW_027266231.1	unplaced-scaffold	36398			ptg000089l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000103.1	Chromosome		NW_027266232.1	unplaced-scaffold	17465			ptg000090l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000104.1	Chromosome		NW_027266233.1	unplaced-scaffold	17172			ptg000091l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000105.1	Chromosome		NW_027266234.1	unplaced-scaffold	62221			ptg000092l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000106.1	Chromosome		NW_027266235.1	unplaced-scaffold	19583			ptg000094l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000107.1	Chromosome		NW_027266236.1	unplaced-scaffold	12334			ptg000095l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000108.1	Chromosome		NW_027266237.1	unplaced-scaffold	29992			ptg000096l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000109.1	Chromosome		NW_027266238.1	unplaced-scaffold	29413			ptg000097l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000110.1	Chromosome		NW_027266239.1	unplaced-scaffold	43474			ptg000098l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000111.1	Chromosome		NW_027266240.1	unplaced-scaffold	20665			ptg000099l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000112.1	Chromosome		NW_027266241.1	unplaced-scaffold	25916			ptg000100l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000113.1	Chromosome		NW_027266242.1	unplaced-scaffold	16735			ptg000101l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000114.1	Chromosome		NW_027266243.1	unplaced-scaffold	35727			ptg000103l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000115.1	Chromosome		NW_027266244.1	unplaced-scaffold	18285			ptg000104l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000116.1	Chromosome		NW_027266245.1	unplaced-scaffold	40427			ptg000105l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000117.1	Chromosome		NW_027266246.1	unplaced-scaffold	60304			ptg000106l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000118.1	Chromosome		NW_027266247.1	unplaced-scaffold	12746			ptg000107l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000119.1	Chromosome		NW_027266248.1	unplaced-scaffold	20808			ptg000108l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000120.1	Chromosome		NW_027266249.1	unplaced-scaffold	9122			ptg000109l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000121.1	Chromosome		NW_027266250.1	unplaced-scaffold	8768			ptg000110l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000122.1	Chromosome		NW_027266251.1	unplaced-scaffold	9360			ptg000111l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000123.1	Chromosome		NW_027266252.1	unplaced-scaffold	31503			ptg000112l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000124.1	Chromosome		NW_027266253.1	unplaced-scaffold	41413			ptg000114l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000125.1	Chromosome		NW_027266254.1	unplaced-scaffold	17512			ptg000115l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000126.1	Chromosome		NW_027266255.1	unplaced-scaffold	17800			ptg000116l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000127.1	Chromosome		NW_027266256.1	unplaced-scaffold	8647			ptg000118l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000128.1	Chromosome		NW_027266257.1	unplaced-scaffold	19051			ptg000119l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000129.1	Chromosome		NW_027266258.1	unplaced-scaffold	11300			ptg000120l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000130.1	Chromosome		NW_027266259.1	unplaced-scaffold	40430			ptg000121l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000131.1	Chromosome		NW_027266260.1	unplaced-scaffold	9552			ptg000122l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000132.1	Chromosome		NW_027266261.1	unplaced-scaffold	12784			ptg000123l
+GCA_036785885.1	Primary Assembly	Un			JAZHGF010000133.1	Chromosome		NW_027266262.1	unplaced-scaffold	6868091			ptg000200l

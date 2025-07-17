@@ -1,0 +1,118 @@
+Assembly Accession	Assembly-unit accession	Chromosome name	GC Count	GC Percent	GenBank seq accession	Molecule type	Ordering	RefSeq seq accession	Role	Seq length	UCSC style name	Unlocalized Count	Sequence name
+GCA_036785875.1	Primary Assembly	1	24514516	36.5	CM071880.1	Chromosome			assembled-molecule	66763563			CE.1.5ch01.seq5
+GCA_036785875.1	Primary Assembly	2	34477797	36.5	CM071881.1	Chromosome			assembled-molecule	94184670			CE.1.5ch02.seq44
+GCA_036785875.1	Primary Assembly	3	19809402	36	CM071882.1	Chromosome			assembled-molecule	54784144			CE.1.5ch03.seq110
+GCA_036785875.1	Primary Assembly	4	18133974	36.5	CM071883.1	Chromosome			assembled-molecule	49583377			CE.1.5ch04.seq97
+GCA_036785875.1	Primary Assembly	5	17846344	36.5	CM071884.1	Chromosome			assembled-molecule	48954950			CE.1.5ch05.seq7
+GCA_036785875.1	Primary Assembly	6	25129147	36.5	CM071885.1	Chromosome			assembled-molecule	68516149			CE.1.5ch06.seq34
+GCA_036785875.1	Primary Assembly	7	17848674	36.5	CM071886.1	Chromosome			assembled-molecule	48962909			CE.1.5ch07.seq46
+GCA_036785875.1	Primary Assembly	8	22945591	36.5	CM071887.1	Chromosome			assembled-molecule	62803543			CE.1.5ch08.seq21
+GCA_036785875.1	Primary Assembly	9	14374436	36.5	CM071888.1	Chromosome			assembled-molecule	39285861			CE.1.5ch09.ctg27
+GCA_036785875.1	Primary Assembly	10	17852362	36.5	CM071889.1	Chromosome			assembled-molecule	48992264			CE.1.5ch10.seq83
+GCA_036785875.1	Primary Assembly	11	18528151	36.5	CM071890.1	Chromosome			assembled-molecule	51031041			CE.1.5ch11.seq35
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000012.1	Chromosome			unplaced-scaffold	36398			CE1.5ch00.1008
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000013.1	Chromosome			unplaced-scaffold	121313			CE1.5ch00.102
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000014.1	Chromosome			unplaced-scaffold	178239			CE1.5ch00.1036
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000015.1	Chromosome			unplaced-scaffold	83026			CE1.5ch00.1038
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000016.1	Chromosome			unplaced-scaffold	68478			CE1.5ch00.1063
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000017.1	Chromosome			unplaced-scaffold	792624			CE1.5ch00.1077
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000018.1	Chromosome			unplaced-scaffold	73531			CE1.5ch00.1086
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000019.1	Chromosome			unplaced-scaffold	182067			CE1.5ch00.1133
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000020.1	Chromosome			unplaced-scaffold	13187			CE1.5ch00.1139
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000021.1	Chromosome			unplaced-scaffold	83404			CE1.5ch00.1223
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000022.1	Chromosome			unplaced-scaffold	119932			CE1.5ch00.1229
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000023.1	Chromosome			unplaced-scaffold	24603			CE1.5ch00.1279
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000024.1	Chromosome			unplaced-scaffold	80330			CE1.5ch00.130
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000025.1	Chromosome			unplaced-scaffold	68670			CE1.5ch00.1325
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000026.1	Chromosome			unplaced-scaffold	217533			CE1.5ch00.1339
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000027.1	Chromosome			unplaced-scaffold	71938			CE1.5ch00.135
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000028.1	Chromosome			unplaced-scaffold	154065			CE1.5ch00.1366
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000029.1	Chromosome			unplaced-scaffold	63901			CE1.5ch00.1421
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000030.1	Chromosome			unplaced-scaffold	17741			CE1.5ch00.1451
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000031.1	Chromosome			unplaced-scaffold	87031			CE1.5ch00.1477
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000032.1	Chromosome			unplaced-scaffold	11380			CE1.5ch00.148
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000033.1	Chromosome			unplaced-scaffold	251876			CE1.5ch00.1494
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000034.1	Chromosome			unplaced-scaffold	19993			CE1.5ch00.1527
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000035.1	Chromosome			unplaced-scaffold	35654			CE1.5ch00.1544
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000036.1	Chromosome			unplaced-scaffold	25512			CE1.5ch00.1580
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000037.1	Chromosome			unplaced-scaffold	187446			CE1.5ch00.159
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000038.1	Chromosome			unplaced-scaffold	7337			CE1.5ch00.1601
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000039.1	Chromosome			unplaced-scaffold	168937			CE1.5ch00.160
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000040.1	Chromosome			unplaced-scaffold	108557			CE1.5ch00.1616
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000041.1	Chromosome			unplaced-scaffold	49460			CE1.5ch00.1656
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000042.1	Chromosome			unplaced-scaffold	53307			CE1.5ch00.1691
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000043.1	Chromosome			unplaced-scaffold	204626			CE1.5ch00.1728
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000044.1	Chromosome			unplaced-scaffold	95298			CE1.5ch00.1732
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000045.1	Chromosome			unplaced-scaffold	187233			CE1.5ch00.174
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000046.1	Chromosome			unplaced-scaffold	35118			CE1.5ch00.1802
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000047.1	Chromosome			unplaced-scaffold	17230			CE1.5ch00.182
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000048.1	Chromosome			unplaced-scaffold	100247			CE1.5ch00.1840
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000049.1	Chromosome			unplaced-scaffold	27412			CE1.5ch00.185
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000050.1	Chromosome			unplaced-scaffold	3256			CE1.5ch00.1866
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000051.1	Chromosome			unplaced-scaffold	18243			CE1.5ch00.1875
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000052.1	Chromosome			unplaced-scaffold	24901			CE1.5ch00.1876
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000053.1	Chromosome			unplaced-scaffold	274			CE1.5ch00.1941
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000054.1	Chromosome			unplaced-scaffold	9772			CE1.5ch00.198
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000055.1	Chromosome			unplaced-scaffold	35554			CE1.5ch00.1997
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000056.1	Chromosome			unplaced-scaffold	548101			CE1.5ch00.2123
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000057.1	Chromosome			unplaced-scaffold	77897			CE1.5ch00.2159
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000058.1	Chromosome			unplaced-scaffold	124778			CE1.5ch00.2201
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000059.1	Chromosome			unplaced-scaffold	16725			CE1.5ch00.220
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000060.1	Chromosome			unplaced-scaffold	27263			CE1.5ch00.2215
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000061.1	Chromosome			unplaced-scaffold	317808			CE1.5ch00.221
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000062.1	Chromosome			unplaced-scaffold	116217			CE1.5ch00.2228
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000063.1	Chromosome			unplaced-scaffold	153838			CE1.5ch00.2255
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000064.1	Chromosome			unplaced-scaffold	18836			CE1.5ch00.2269
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000065.1	Chromosome			unplaced-scaffold	172243			CE1.5ch00.2282
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000066.1	Chromosome			unplaced-scaffold	40414			CE1.5ch00.228
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000067.1	Chromosome			unplaced-scaffold	400314			CE1.5ch00.2299
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000068.1	Chromosome			unplaced-scaffold	116709			CE1.5ch00.2345
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000069.1	Chromosome			unplaced-scaffold	16083			CE1.5ch00.2370
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000070.1	Chromosome			unplaced-scaffold	4098			CE1.5ch00.2380
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000071.1	Chromosome			unplaced-scaffold	53414			CE1.5ch00.2391
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000072.1	Chromosome			unplaced-scaffold	2429			CE1.5ch00.2409
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000073.1	Chromosome			unplaced-scaffold	49085			CE1.5ch00.240
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000074.1	Chromosome			unplaced-scaffold	18365			CE1.5ch00.2457
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000075.1	Chromosome			unplaced-scaffold	136084			CE1.5ch00.2569
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000076.1	Chromosome			unplaced-scaffold	29069			CE1.5ch00.2583
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000077.1	Chromosome			unplaced-scaffold	168386			CE1.5ch00.2587
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000078.1	Chromosome			unplaced-scaffold	21924			CE1.5ch00.261
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000079.1	Chromosome			unplaced-scaffold	331907			CE1.5ch00.2633
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000080.1	Chromosome			unplaced-scaffold	104242			CE1.5ch00.2664
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000081.1	Chromosome			unplaced-scaffold	444069			CE1.5ch00.2689
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000082.1	Chromosome			unplaced-scaffold	16680			CE1.5ch00.2729
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000083.1	Chromosome			unplaced-scaffold	15037			CE1.5ch00.2761
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000084.1	Chromosome			unplaced-scaffold	146908			CE1.5ch00.2938
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000085.1	Chromosome			unplaced-scaffold	3211			CE1.5ch00.31
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000086.1	Chromosome			unplaced-scaffold	396645			CE1.5ch00.339
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000087.1	Chromosome			unplaced-scaffold	7101			CE1.5ch00.347
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000088.1	Chromosome			unplaced-scaffold	127447			CE1.5ch00.371
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000089.1	Chromosome			unplaced-scaffold	8109			CE1.5ch00.376
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000090.1	Chromosome			unplaced-scaffold	14494			CE1.5ch00.384
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000091.1	Chromosome			unplaced-scaffold	121401			CE1.5ch00.390
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000092.1	Chromosome			unplaced-scaffold	914			CE1.5ch00.400
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000093.1	Chromosome			unplaced-scaffold	10760			CE1.5ch00.40
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000094.1	Chromosome			unplaced-scaffold	141251			CE1.5ch00.428
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000095.1	Chromosome			unplaced-scaffold	174677			CE1.5ch00.442
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000096.1	Chromosome			unplaced-scaffold	122606			CE1.5ch00.443
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000097.1	Chromosome			unplaced-scaffold	47415			CE1.5ch00.456
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000098.1	Chromosome			unplaced-scaffold	139501			CE1.5ch00.472
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000099.1	Chromosome			unplaced-scaffold	24787			CE1.5ch00.493
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000100.1	Chromosome			unplaced-scaffold	19812			CE1.5ch00.495
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000101.1	Chromosome			unplaced-scaffold	10418			CE1.5ch00.497
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000102.1	Chromosome			unplaced-scaffold	435447			CE1.5ch00.55
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000103.1	Chromosome			unplaced-scaffold	2503			CE1.5ch00.58
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000104.1	Chromosome			unplaced-scaffold	15289			CE1.5ch00.613
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000105.1	Chromosome			unplaced-scaffold	54462			CE1.5ch00.628
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000106.1	Chromosome			unplaced-scaffold	5840			CE1.5ch00.632
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000107.1	Chromosome			unplaced-scaffold	9459			CE1.5ch00.647
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000108.1	Chromosome			unplaced-scaffold	3926			CE1.5ch00.655
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000109.1	Chromosome			unplaced-scaffold	4521			CE1.5ch00.674
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000110.1	Chromosome			unplaced-scaffold	12232			CE1.5ch00.760
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000111.1	Chromosome			unplaced-scaffold	191386			CE1.5ch00.784
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000112.1	Chromosome			unplaced-scaffold	22855			CE1.5ch00.789
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000113.1	Chromosome			unplaced-scaffold	924			CE1.5ch00.813
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000114.1	Chromosome			unplaced-scaffold	23233			CE1.5ch00.816
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000115.1	Chromosome			unplaced-scaffold	31143			CE1.5ch00.861
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000116.1	Chromosome			unplaced-scaffold	20028			CE1.5ch00.872
+GCA_036785875.1	Primary Assembly	Un			JAZHGH010000117.1	Chromosome			unplaced-scaffold	7594			CE1.5ch00.995
